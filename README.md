@@ -15,10 +15,24 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: Engineers are assusmed to know everything
 
 <h3 align="left">Programming:</h3>
-<p align="left
-  <a href="#" target="_blank">           <img src="[./Images/angular.png](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png)" alt="angularjs" width="40" height="40"/> </a>
+<p align="left">
+  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" alt="C" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="https://education.oracle.com/file/general/p-80-java.png" alt="Java" width="40" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/> </a>
 </p>
-<p align="left"> 
+
+<h3 align="left">Dev:</h3>
+<p align="left">
+    <h6>Artificial Intelligence</h6>
+    <h6>Full Stack Development</h6>
+    <h4>Familiar:</h4>
+    <h6>Blockchain</h6>
+    <h6>Cybersecurity</h6>
+    <text>Therefore, Computer Scientist :)</text>
+</p>
+
+<!-- <p align="left"> 
   <a href="https://angular.io" target="_blank">           <img src="./Images/angular.png" alt="angularjs" width="40" height="40"/> </a> 
   <a href="https://aws.amazon.com" target="_blank">       <img src="./Images/aws.png" alt="aws" width="40" height="40"/> </a> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="./Images/azure.png" alt="azure" width="40" height="40"/> </a> 
@@ -40,4 +54,4 @@ Here are some ideas to get you started:-->
   <a href="https://reactnative.dev/" target="_blank">     <img src="./Images/react.png" alt="reactnative" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank">        <img src="./Images/ts.png" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="./Images/adobexd.png" alt="xd" width="40" height="40"/> </a> 
-</p>
+</p> -->
