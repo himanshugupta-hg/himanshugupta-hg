@@ -17,9 +17,9 @@ Here are some ideas to get you started:-->
 <h3 align="left">Programming:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" alt="C" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://education.oracle.com/file/general/p-80-java.png" alt="C++" width="40" height="40"/> </a>
-  <a href="#" target="_blank"> <img src="https://education.oracle.com/file/general/p-80-java.png" alt="Java" width="40" height="40"/> </a>
-  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/> </a>
+  <a href="https://www.java.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java" width="40" height="40"/> </a>
+  <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Dev:</h3>
