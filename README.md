@@ -20,16 +20,17 @@ Here are some ideas to get you started:-->
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/> </a>
   <a href="https://www.java.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/> </a>
+  <a href="https://www.javascript.com/" target="_blank"> <img src="https://jbstechinfo.com/wp-content/uploads/2023/08/JavaScript-Symbol.png" alt="JavaScript" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Dev:</h3>
 <p align="left">
-    <h6>Artificial Intelligence and Machine Learning</h6>
-    <h6>Data Science</h6>
-    <h6>Full Stack Development</h6>
+    <h6>Artificial Intelligence and Machine Learning | Data Science | Full Stack Development</h6>
+    <!-- <h6>Data Science</h6>
+    <h6>Full Stack Development</h6> -->
     <h4>Familiar:</h4>
-    <h6>Blockchain</h6>
-    <h6>Cybersecurity</h6>
+    <h6>Blockchain | Cybersecurity</h6>
+    <!-- <h6>Cybersecurity</h6> -->
     <text>Therefore, Computer Scientist :)</text>
 </p>
 
@@ -55,9 +56,9 @@ Here are some ideas to get you started:-->
 
 <h3 align="left">AI ML:</h3>
 <p align="left">
-    <h6>Deep Learning</h6>
-    <h6>Convolutional Neural Network</h6>
-    <h6>Natural Language Processing</h6>
+    <h6>Deep Learning | Convolutional Neural Network | Natural Language Processing</h6>
+    <!-- <h6>Convolutional Neural Network</h6>
+    <h6>Natural Language Processing</h6> -->
 </p>
 
 <h3 align="left">Others:</h3>
